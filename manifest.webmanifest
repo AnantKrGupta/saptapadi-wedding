@@ -1,0 +1,12 @@
+{
+  "name": "Saptapadi — Shubh Vivah Planner",
+  "short_name": "Saptapadi",
+  "description": "Plan the whole Indian Hindu wedding — guests, rituals, budget, vendors, invitations and memories.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#420A1A",
+  "theme_color": "#420A1A",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
